@@ -1,0 +1,46 @@
+.titulo {
+    font: bold;
+    font-size: 16pt;
+    color: orangered;
+    text-align: center;
+
+}.respostas {
+    display: inline-block;
+    width: 35%;
+    border: 3px solid black;
+    height: 350px;
+    text-align: center;
+    margin: 15px;
+    vertical-align: top;
+}#certa{
+    color: rgb(34, 158, 34);
+
+}#errada{
+    color: red;
+
+}h2{  
+    text-align: center;    
+
+}#nome {
+    font: bold;
+    font-size: 16pt;
+    color: black;
+    text-align: center;
+
+}.resultados {
+    font: bold;
+    font-size: 16pt;
+    color: black;
+    text-align: center;
+
+}#confirmar {
+    font: bold;
+    font-size: 18pt;
+    color: red;
+    text-align: center;
+    text-shadow: 0 0 1px rgb(43, 41, 41), 0 0 2px rgb(48, 45, 45);
+
+}body{
+        text-align: center;
+        background-color: aliceblue;
+}
